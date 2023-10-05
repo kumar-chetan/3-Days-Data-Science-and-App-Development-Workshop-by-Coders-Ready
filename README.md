@@ -1,8 +1,9 @@
 ## About the Workshop
 
-# Welcome to the "3-Days Data Science and App Development Workshop" by Coders Ready!
+### Welcome to the "3-Days Data Science and App Development Workshop" by Coders Ready!
 
 **Objective:** 
+
 This intensive three-day workshop is designed to equip participants with essential skills in data science and app development. Whether you are a beginner looking to start your journey or an experienced coder seeking to enhance your knowledge, our workshop offers a comprehensive learning experience.
 
 **Workshop Highlights:**
